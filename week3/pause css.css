@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(173, 198, 230);
+    padding-top: 20%;
+}
+
+header {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: rgb(173, 198, 230);
+    border-radius: 20px;
+    padding: 8px;
+}
+
+h2 {
+    font-size: 10px;
+    text-align: center;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: circle;
+    color: green;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+a:active {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline blue;
+}
+
+h3
+h5 {
+    text-align: center;
+}
